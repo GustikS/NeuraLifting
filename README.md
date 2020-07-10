@@ -1,3 +1,5 @@
+# Neural Lifting
+
 _This repository contains materials to reproduce the results from the paper "**Lossless Compression of Structured Convolutional Models via Lifting**"._
 
 #### Overview
@@ -10,7 +12,7 @@ _This repository contains materials to reproduce the results from the paper "**L
 |  scripts         |  contains bash scripts for running all the experiments, i.e. running the learning engine with varying inputs and parameters                                    |
 |  templates       |  contains all the used templates (models) for learning in the experiments    
 
-- for you convenience, the whole learning engine is packed into a single [jar file release](https://github.com/GustikS/NeuraLifting/releases) with no dependencies (but Java >= 1.8). See the [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository for sourcecode of the engine itself (and recent releases).
+- for you convenience, the whole learning engine is packed into a single [jar file release](https://github.com/GustikS/NeuraLifting/releases) with no dependencies (but Java ≥ 1.8). See the [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository for sourcecode of the engine itself (and recent releases).
 - for the comparison against GNN engines (PyG and DGL) from Table 1 (and other experiments), please see a separate [GNNs vs. LRNNs](https://github.com/GustikS/GNNwLRNNs) repository.
 
 #### Reproduction scripts
@@ -44,3 +46,5 @@ Since there are many experiments to be performed for the final graphical output,
     1. To switch between the subplots of each figure, please uncomment the corresponding lines (also for the legend to show in the last plot please uncomment the corresponding line).
 
     `python ./plotting/figure5.py`
+    
+You can find the Lifted Relational Neural Networks framework itself being developed at [Neuralogic](https://github.com/GustikS/NeuraLogic) repository.
