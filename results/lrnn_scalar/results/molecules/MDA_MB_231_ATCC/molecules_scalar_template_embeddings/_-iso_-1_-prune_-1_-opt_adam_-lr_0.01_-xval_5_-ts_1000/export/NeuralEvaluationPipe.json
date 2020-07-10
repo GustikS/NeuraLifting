@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.6847457627118644,
+  "majorityErr": 0.5,
+  "dispersion": {
+    "value": 0.22468867363097278
+  },
+  "goodCount": 404,
+  "zeroCount": 295,
+  "oneCount": 295,
+  "bestThreshold": {
+    "value": 0.46868341933896585
+  },
+  "bestAccuracy": 0.6830508474576271,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.19997600843174648
+  }
+}
+

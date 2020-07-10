@@ -1,0 +1,585 @@
+{1} atomKappa_A1(A) :- ag(A).
+{1} atomKappa_A1(A) :- cd(A).
+{1} atomKappa_A1(A) :- si(A).
+{1} atomKappa_A1(A) :- c_3(A).
+{1} atomKappa_A1(A) :- h_1(A).
+{1} atomKappa_A1(A) :- pb(A).
+{1} atomKappa_A1(A) :- se(A).
+{1} atomKappa_A1(A) :- c_28(A).
+{1} atomKappa_A1(A) :- ni(A).
+{1} atomKappa_A1(A) :- h_8(A).
+{1} atomKappa_A1(A) :- i(A).
+{1} atomKappa_A1(A) :- pt(A).
+{1} atomKappa_A1(A) :- n_pl3(A).
+{1} atomKappa_A1(A) :- c_21(A).
+{1} atomKappa_A1(A) :- n_35(A).
+{1} atomKappa_A1(A) :- s(A).
+{1} atomKappa_A1(A) :- c_26(A).
+{1} atomKappa_A1(A) :- mn(A).
+{1} atomKappa_A1(A) :- br_94(A).
+{1} atomKappa_A1(A) :- p(A).
+{1} atomKappa_A1(A) :- ge(A).
+{1} atomKappa_A1(A) :- c_16(A).
+{1} atomKappa_A1(A) :- c_195(A).
+{1} atomKappa_A1(A) :- c(A).
+{1} atomKappa_A1(A) :- co(A).
+{1} atomKappa_A1(A) :- br(A).
+{1} atomKappa_A1(A) :- c_10(A).
+{1} atomKappa_A1(A) :- c_22(A).
+{1} atomKappa_A1(A) :- c_ar(A).
+{1} atomKappa_A1(A) :- o_51(A).
+{1} atomKappa_A1(A) :- c_1(A).
+{1} atomKappa_A1(A) :- s_2(A).
+{1} atomKappa_A1(A) :- c_14(A).
+{1} atomKappa_A1(A) :- o_40(A).
+{1} atomKappa_A1(A) :- hg(A).
+{1} atomKappa_A1(A) :- cl_93(A).
+{1} atomKappa_A1(A) :- o_45(A).
+{1} atomKappa_A1(A) :- s_3(A).
+{1} atomKappa_A1(A) :- o_52(A).
+{1} atomKappa_A1(A) :- n_1(A).
+{1} atomKappa_A1(A) :- cr(A).
+{1} atomKappa_A1(A) :- o_3(A).
+{1} atomKappa_A1(A) :- sb(A).
+{1} atomKappa_A1(A) :- n_38(A).
+{1} atomKappa_A1(A) :- n_ar(A).
+{1} atomKappa_A1(A) :- s_o(A).
+{1} atomKappa_A1(A) :- n_36(A).
+{1} atomKappa_A1(A) :- cl(A).
+{1} atomKappa_A1(A) :- sn(A).
+{1} atomKappa_A1(A) :- o_50(A).
+{1} atomKappa_A1(A) :- c_19(A).
+{1} atomKappa_A1(A) :- f_92(A).
+{1} atomKappa_A1(A) :- i_95(A).
+{1} atomKappa_A1(A) :- n(A).
+{1} atomKappa_A1(A) :- c_29(A).
+{1} atomKappa_A1(A) :- h(A).
+{1} atomKappa_A1(A) :- c_2(A).
+{1} atomKappa_A1(A) :- n_32(A).
+{1} atomKappa_A1(A) :- in(A).
+{1} atomKappa_A1(A) :- s_o2(A).
+{1} atomKappa_A1(A) :- o_2(A).
+{1} atomKappa_A1(A) :- n_2(A).
+{1} atomKappa_A1(A) :- na(A).
+{1} atomKappa_A1(A) :- c_194(A).
+{1} atomKappa_A1(A) :- rh(A).
+{1} atomKappa_A1(A) :- o_co2(A).
+{1} atomKappa_A1(A) :- zn(A).
+{1} atomKappa_A1(A) :- au(A).
+{1} atomKappa_A1(A) :- o_42(A).
+{1} atomKappa_A1(A) :- h_3(A).
+{1} atomKappa_A1(A) :- er(A).
+{1} atomKappa_A1(A) :- as(A).
+{1} atomKappa_A1(A) :- c_230(A).
+{1} atomKappa_A1(A) :- o_41(A).
+{1} atomKappa_A1(A) :- f(A).
+{1} atomKappa_A1(A) :- cu(A).
+{1} atomKappa_A1(A) :- fe(A).
+{1} atomKappa_A1(A) :- n_4(A).
+{1} atomKappa_A1(A) :- pd(A).
+{1} atomKappa_A1(A) :- b(A).
+{1} atomKappa_A1(A) :- c_232(A).
+{1} atomKappa_A1(A) :- c_25(A).
+{1} atomKappa_A1(A) :- eu(A).
+{1} atomKappa_A1(A) :- v(A).
+{1} atomKappa_A1(A) :- ca(A).
+{1} atomKappa_A1(A) :- o(A).
+{1} atomKappa_A1(A) :- te(A).
+{1} atomKappa_A1(A) :- bi(A).
+{1} atomKappa_A1(A) :- k(A).
+{1} atomKappa_A1(A) :- n_3(A).
+{1} atomKappa_A1(A) :- ru(A).
+{1} atomKappa_A1(A) :- n_am(A).
+{1} atomKappa_A1(A) :- o_49(A).
+{1} atomKappa_A1(A) :- n_34(A).
+{1} atomKappa_A1(A) :- p_3(A).
+{1} atomKappa_A1(A) :- ba(A).
+{1} atomKappa_A1(A) :- c_27(A).
+{1} atomKappa_A1(A) :- n_31(A).
+{1} bondKappa_A1(B) :- b_singlebond(B).
+{1} bondKappa_A1(B) :- b_5(B).
+{1} bondKappa_A1(B) :- b_1(B).
+{1} bondKappa_A1(B) :- b_7(B).
+{1} bondKappa_A1(B) :- b_doublebond(B).
+{1} bondKappa_A1(B) :- b_ar(B).
+{1} bondKappa_A1(B) :- b_2(B).
+{1} bondKappa_A1(B) :- b_3(B).
+{1} bondKappa_A1(B) :- b_resonantbond(B).
+{1} bondKappa_A1(B) :- b_am(B).
+{1} bondKappa_A1(B) :- b_4(B).
+{1} bondKappa_A1(B) :- b_triplebond(B).
+{1} atomKappa_A2(A) :- ag(A).
+{1} atomKappa_A2(A) :- cd(A).
+{1} atomKappa_A2(A) :- si(A).
+{1} atomKappa_A2(A) :- c_3(A).
+{1} atomKappa_A2(A) :- h_1(A).
+{1} atomKappa_A2(A) :- pb(A).
+{1} atomKappa_A2(A) :- se(A).
+{1} atomKappa_A2(A) :- c_28(A).
+{1} atomKappa_A2(A) :- ni(A).
+{1} atomKappa_A2(A) :- h_8(A).
+{1} atomKappa_A2(A) :- i(A).
+{1} atomKappa_A2(A) :- pt(A).
+{1} atomKappa_A2(A) :- n_pl3(A).
+{1} atomKappa_A2(A) :- c_21(A).
+{1} atomKappa_A2(A) :- n_35(A).
+{1} atomKappa_A2(A) :- s(A).
+{1} atomKappa_A2(A) :- c_26(A).
+{1} atomKappa_A2(A) :- mn(A).
+{1} atomKappa_A2(A) :- br_94(A).
+{1} atomKappa_A2(A) :- p(A).
+{1} atomKappa_A2(A) :- ge(A).
+{1} atomKappa_A2(A) :- c_16(A).
+{1} atomKappa_A2(A) :- c_195(A).
+{1} atomKappa_A2(A) :- c(A).
+{1} atomKappa_A2(A) :- co(A).
+{1} atomKappa_A2(A) :- br(A).
+{1} atomKappa_A2(A) :- c_10(A).
+{1} atomKappa_A2(A) :- c_22(A).
+{1} atomKappa_A2(A) :- c_ar(A).
+{1} atomKappa_A2(A) :- o_51(A).
+{1} atomKappa_A2(A) :- c_1(A).
+{1} atomKappa_A2(A) :- s_2(A).
+{1} atomKappa_A2(A) :- c_14(A).
+{1} atomKappa_A2(A) :- o_40(A).
+{1} atomKappa_A2(A) :- hg(A).
+{1} atomKappa_A2(A) :- cl_93(A).
+{1} atomKappa_A2(A) :- o_45(A).
+{1} atomKappa_A2(A) :- s_3(A).
+{1} atomKappa_A2(A) :- o_52(A).
+{1} atomKappa_A2(A) :- n_1(A).
+{1} atomKappa_A2(A) :- cr(A).
+{1} atomKappa_A2(A) :- o_3(A).
+{1} atomKappa_A2(A) :- sb(A).
+{1} atomKappa_A2(A) :- n_38(A).
+{1} atomKappa_A2(A) :- n_ar(A).
+{1} atomKappa_A2(A) :- s_o(A).
+{1} atomKappa_A2(A) :- n_36(A).
+{1} atomKappa_A2(A) :- cl(A).
+{1} atomKappa_A2(A) :- sn(A).
+{1} atomKappa_A2(A) :- o_50(A).
+{1} atomKappa_A2(A) :- c_19(A).
+{1} atomKappa_A2(A) :- f_92(A).
+{1} atomKappa_A2(A) :- i_95(A).
+{1} atomKappa_A2(A) :- n(A).
+{1} atomKappa_A2(A) :- c_29(A).
+{1} atomKappa_A2(A) :- h(A).
+{1} atomKappa_A2(A) :- c_2(A).
+{1} atomKappa_A2(A) :- n_32(A).
+{1} atomKappa_A2(A) :- in(A).
+{1} atomKappa_A2(A) :- s_o2(A).
+{1} atomKappa_A2(A) :- o_2(A).
+{1} atomKappa_A2(A) :- n_2(A).
+{1} atomKappa_A2(A) :- na(A).
+{1} atomKappa_A2(A) :- c_194(A).
+{1} atomKappa_A2(A) :- rh(A).
+{1} atomKappa_A2(A) :- o_co2(A).
+{1} atomKappa_A2(A) :- zn(A).
+{1} atomKappa_A2(A) :- au(A).
+{1} atomKappa_A2(A) :- o_42(A).
+{1} atomKappa_A2(A) :- h_3(A).
+{1} atomKappa_A2(A) :- er(A).
+{1} atomKappa_A2(A) :- as(A).
+{1} atomKappa_A2(A) :- c_230(A).
+{1} atomKappa_A2(A) :- o_41(A).
+{1} atomKappa_A2(A) :- f(A).
+{1} atomKappa_A2(A) :- cu(A).
+{1} atomKappa_A2(A) :- fe(A).
+{1} atomKappa_A2(A) :- n_4(A).
+{1} atomKappa_A2(A) :- pd(A).
+{1} atomKappa_A2(A) :- b(A).
+{1} atomKappa_A2(A) :- c_232(A).
+{1} atomKappa_A2(A) :- c_25(A).
+{1} atomKappa_A2(A) :- eu(A).
+{1} atomKappa_A2(A) :- v(A).
+{1} atomKappa_A2(A) :- ca(A).
+{1} atomKappa_A2(A) :- o(A).
+{1} atomKappa_A2(A) :- te(A).
+{1} atomKappa_A2(A) :- bi(A).
+{1} atomKappa_A2(A) :- k(A).
+{1} atomKappa_A2(A) :- n_3(A).
+{1} atomKappa_A2(A) :- ru(A).
+{1} atomKappa_A2(A) :- n_am(A).
+{1} atomKappa_A2(A) :- o_49(A).
+{1} atomKappa_A2(A) :- n_34(A).
+{1} atomKappa_A2(A) :- p_3(A).
+{1} atomKappa_A2(A) :- ba(A).
+{1} atomKappa_A2(A) :- c_27(A).
+{1} atomKappa_A2(A) :- n_31(A).
+{1} bondKappa_A2(B) :- b_singlebond(B).
+{1} bondKappa_A2(B) :- b_5(B).
+{1} bondKappa_A2(B) :- b_1(B).
+{1} bondKappa_A2(B) :- b_7(B).
+{1} bondKappa_A2(B) :- b_doublebond(B).
+{1} bondKappa_A2(B) :- b_ar(B).
+{1} bondKappa_A2(B) :- b_2(B).
+{1} bondKappa_A2(B) :- b_3(B).
+{1} bondKappa_A2(B) :- b_resonantbond(B).
+{1} bondKappa_A2(B) :- b_am(B).
+{1} bondKappa_A2(B) :- b_4(B).
+{1} bondKappa_A2(B) :- b_triplebond(B).
+{1} atomKappa_A3(A) :- ag(A).
+{1} atomKappa_A3(A) :- cd(A).
+{1} atomKappa_A3(A) :- si(A).
+{1} atomKappa_A3(A) :- c_3(A).
+{1} atomKappa_A3(A) :- h_1(A).
+{1} atomKappa_A3(A) :- pb(A).
+{1} atomKappa_A3(A) :- se(A).
+{1} atomKappa_A3(A) :- c_28(A).
+{1} atomKappa_A3(A) :- ni(A).
+{1} atomKappa_A3(A) :- h_8(A).
+{1} atomKappa_A3(A) :- i(A).
+{1} atomKappa_A3(A) :- pt(A).
+{1} atomKappa_A3(A) :- n_pl3(A).
+{1} atomKappa_A3(A) :- c_21(A).
+{1} atomKappa_A3(A) :- n_35(A).
+{1} atomKappa_A3(A) :- s(A).
+{1} atomKappa_A3(A) :- c_26(A).
+{1} atomKappa_A3(A) :- mn(A).
+{1} atomKappa_A3(A) :- br_94(A).
+{1} atomKappa_A3(A) :- p(A).
+{1} atomKappa_A3(A) :- ge(A).
+{1} atomKappa_A3(A) :- c_16(A).
+{1} atomKappa_A3(A) :- c_195(A).
+{1} atomKappa_A3(A) :- c(A).
+{1} atomKappa_A3(A) :- co(A).
+{1} atomKappa_A3(A) :- br(A).
+{1} atomKappa_A3(A) :- c_10(A).
+{1} atomKappa_A3(A) :- c_22(A).
+{1} atomKappa_A3(A) :- c_ar(A).
+{1} atomKappa_A3(A) :- o_51(A).
+{1} atomKappa_A3(A) :- c_1(A).
+{1} atomKappa_A3(A) :- s_2(A).
+{1} atomKappa_A3(A) :- c_14(A).
+{1} atomKappa_A3(A) :- o_40(A).
+{1} atomKappa_A3(A) :- hg(A).
+{1} atomKappa_A3(A) :- cl_93(A).
+{1} atomKappa_A3(A) :- o_45(A).
+{1} atomKappa_A3(A) :- s_3(A).
+{1} atomKappa_A3(A) :- o_52(A).
+{1} atomKappa_A3(A) :- n_1(A).
+{1} atomKappa_A3(A) :- cr(A).
+{1} atomKappa_A3(A) :- o_3(A).
+{1} atomKappa_A3(A) :- sb(A).
+{1} atomKappa_A3(A) :- n_38(A).
+{1} atomKappa_A3(A) :- n_ar(A).
+{1} atomKappa_A3(A) :- s_o(A).
+{1} atomKappa_A3(A) :- n_36(A).
+{1} atomKappa_A3(A) :- cl(A).
+{1} atomKappa_A3(A) :- sn(A).
+{1} atomKappa_A3(A) :- o_50(A).
+{1} atomKappa_A3(A) :- c_19(A).
+{1} atomKappa_A3(A) :- f_92(A).
+{1} atomKappa_A3(A) :- i_95(A).
+{1} atomKappa_A3(A) :- n(A).
+{1} atomKappa_A3(A) :- c_29(A).
+{1} atomKappa_A3(A) :- h(A).
+{1} atomKappa_A3(A) :- c_2(A).
+{1} atomKappa_A3(A) :- n_32(A).
+{1} atomKappa_A3(A) :- in(A).
+{1} atomKappa_A3(A) :- s_o2(A).
+{1} atomKappa_A3(A) :- o_2(A).
+{1} atomKappa_A3(A) :- n_2(A).
+{1} atomKappa_A3(A) :- na(A).
+{1} atomKappa_A3(A) :- c_194(A).
+{1} atomKappa_A3(A) :- rh(A).
+{1} atomKappa_A3(A) :- o_co2(A).
+{1} atomKappa_A3(A) :- zn(A).
+{1} atomKappa_A3(A) :- au(A).
+{1} atomKappa_A3(A) :- o_42(A).
+{1} atomKappa_A3(A) :- h_3(A).
+{1} atomKappa_A3(A) :- er(A).
+{1} atomKappa_A3(A) :- as(A).
+{1} atomKappa_A3(A) :- c_230(A).
+{1} atomKappa_A3(A) :- o_41(A).
+{1} atomKappa_A3(A) :- f(A).
+{1} atomKappa_A3(A) :- cu(A).
+{1} atomKappa_A3(A) :- fe(A).
+{1} atomKappa_A3(A) :- n_4(A).
+{1} atomKappa_A3(A) :- pd(A).
+{1} atomKappa_A3(A) :- b(A).
+{1} atomKappa_A3(A) :- c_232(A).
+{1} atomKappa_A3(A) :- c_25(A).
+{1} atomKappa_A3(A) :- eu(A).
+{1} atomKappa_A3(A) :- v(A).
+{1} atomKappa_A3(A) :- ca(A).
+{1} atomKappa_A3(A) :- o(A).
+{1} atomKappa_A3(A) :- te(A).
+{1} atomKappa_A3(A) :- bi(A).
+{1} atomKappa_A3(A) :- k(A).
+{1} atomKappa_A3(A) :- n_3(A).
+{1} atomKappa_A3(A) :- ru(A).
+{1} atomKappa_A3(A) :- n_am(A).
+{1} atomKappa_A3(A) :- o_49(A).
+{1} atomKappa_A3(A) :- n_34(A).
+{1} atomKappa_A3(A) :- p_3(A).
+{1} atomKappa_A3(A) :- ba(A).
+{1} atomKappa_A3(A) :- c_27(A).
+{1} atomKappa_A3(A) :- n_31(A).
+{1} bondKappa_A3(B) :- b_singlebond(B).
+{1} bondKappa_A3(B) :- b_5(B).
+{1} bondKappa_A3(B) :- b_1(B).
+{1} bondKappa_A3(B) :- b_7(B).
+{1} bondKappa_A3(B) :- b_doublebond(B).
+{1} bondKappa_A3(B) :- b_ar(B).
+{1} bondKappa_A3(B) :- b_2(B).
+{1} bondKappa_A3(B) :- b_3(B).
+{1} bondKappa_A3(B) :- b_resonantbond(B).
+{1} bondKappa_A3(B) :- b_am(B).
+{1} bondKappa_A3(B) :- b_4(B).
+{1} bondKappa_A3(B) :- b_triplebond(B).
+
+
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A1(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A2(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A1(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A2(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A1(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A2(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A1(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A2(B1), atomKappa_A3(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A1(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A2(C), <-7>. 
+{1} predict :- atomKappa_A3(A), bond(A,B,B0), bondKappa_A3(B0), atomKappa_A3(B), bond(B,C,B1), bondKappa_A3(B1), atomKappa_A3(C), <-7>. 
+
+
+atomKappa_A1/1 {1}
+atomKappa_A2/1 {1}
+atomKappa_A3/1 {1}
+bondKappa_A1/1 {1}
+bondKappa_A2/1 {1}
+bondKappa_A3/1 {1}
+
+predict/0 {1}

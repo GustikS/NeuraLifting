@@ -1,0 +1,90 @@
+[
+
+{
+  "repetitions": 1,
+  "decimals": 7,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 902000000
+    },
+    "totalTimeTaken": "PT0.902S"
+  },
+  "allNeuronCount": 153883,
+  "compressedNeuronCount": 24442,
+  "preventedByIsoCheck": 0
+}
+
+,
+
+{
+  "repetitions": 1,
+  "decimals": 7,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 293000000
+    },
+    "totalTimeTaken": "PT0.293S"
+  },
+  "allNeuronCount": 156346,
+  "compressedNeuronCount": 24157,
+  "preventedByIsoCheck": 0
+}
+
+,
+
+
+{
+  "repetitions": 1,
+  "decimals": 7,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 382000000
+    },
+    "totalTimeTaken": "PT0.382S"
+  },
+  "allNeuronCount": 157097,
+  "compressedNeuronCount": 24898,
+  "preventedByIsoCheck": 0
+}
+
+,
+
+
+{
+  "repetitions": 1,
+  "decimals": 7,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 302000000
+    },
+    "totalTimeTaken": "PT0.302S"
+  },
+  "allNeuronCount": 156396,
+  "compressedNeuronCount": 24682,
+  "preventedByIsoCheck": 0
+}
+
+,
+
+
+{
+  "repetitions": 1,
+  "decimals": 7,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 292000000
+    },
+    "totalTimeTaken": "PT0.292S"
+  },
+  "allNeuronCount": 158175,
+  "compressedNeuronCount": 25044,
+  "preventedByIsoCheck": 0
+}
+
+]
+

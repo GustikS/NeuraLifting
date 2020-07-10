@@ -1,0 +1,210 @@
+[
+
+{
+  "restartingStrategy": {
+    "maxSteps": 10
+  },
+  "learnRateDecayStrategy": {
+    "diff": {
+      "value": -0.001
+    },
+    "initialLearningRate": {
+      "value": 0.01
+    },
+    "actualLearningRate": {
+      "value": 0.01
+    },
+    "decays": 0
+  },
+  "trainer": {},
+  "valueInitializer": {
+    "distribution": {
+      "rg": {
+        "seed": 99570445367053,
+        "nextNextGaussian": 0.0,
+        "haveNextNextGaussian": false
+      },
+      "scale": 2.0
+    }
+  },
+  "learningRate": {
+    "value": 0.01
+  },
+  "timing": {
+    "timeTaken": {
+      "seconds": 513,
+      "nanos": 491000000
+    },
+    "totalTimeTaken": "PT8M33.491S"
+  }
+}
+
+,
+
+{
+  "restartingStrategy": {
+    "maxSteps": 10
+  },
+  "learnRateDecayStrategy": {
+    "diff": {
+      "value": -0.001
+    },
+    "initialLearningRate": {
+      "value": 0.01
+    },
+    "actualLearningRate": {
+      "value": 0.01
+    },
+    "decays": 0
+  },
+  "trainer": {},
+  "valueInitializer": {
+    "distribution": {
+      "rg": {
+        "seed": 263585558850188,
+        "nextNextGaussian": 0.0,
+        "haveNextNextGaussian": false
+      },
+      "scale": 2.0
+    }
+  },
+  "learningRate": {
+    "value": 0.01
+  },
+  "timing": {
+    "timeTaken": {
+      "seconds": 509,
+      "nanos": 689000000
+    },
+    "totalTimeTaken": "PT8M29.689S"
+  }
+}
+
+,
+
+
+{
+  "restartingStrategy": {
+    "maxSteps": 10
+  },
+  "learnRateDecayStrategy": {
+    "diff": {
+      "value": -0.001
+    },
+    "initialLearningRate": {
+      "value": 0.01
+    },
+    "actualLearningRate": {
+      "value": 0.01
+    },
+    "decays": 0
+  },
+  "trainer": {},
+  "valueInitializer": {
+    "distribution": {
+      "rg": {
+        "seed": 237005868240912,
+        "nextNextGaussian": 0.0,
+        "haveNextNextGaussian": false
+      },
+      "scale": 2.0
+    }
+  },
+  "learningRate": {
+    "value": 0.01
+  },
+  "timing": {
+    "timeTaken": {
+      "seconds": 506,
+      "nanos": 556000000
+    },
+    "totalTimeTaken": "PT8M26.556S"
+  }
+}
+
+,
+
+
+{
+  "restartingStrategy": {
+    "maxSteps": 10
+  },
+  "learnRateDecayStrategy": {
+    "diff": {
+      "value": -0.001
+    },
+    "initialLearningRate": {
+      "value": 0.01
+    },
+    "actualLearningRate": {
+      "value": 0.01
+    },
+    "decays": 0
+  },
+  "trainer": {},
+  "valueInitializer": {
+    "distribution": {
+      "rg": {
+        "seed": 110179595077076,
+        "nextNextGaussian": 0.0,
+        "haveNextNextGaussian": false
+      },
+      "scale": 2.0
+    }
+  },
+  "learningRate": {
+    "value": 0.01
+  },
+  "timing": {
+    "timeTaken": {
+      "seconds": 492,
+      "nanos": 24000000
+    },
+    "totalTimeTaken": "PT8M12.024S"
+  }
+}
+
+,
+
+
+{
+  "restartingStrategy": {
+    "maxSteps": 10
+  },
+  "learnRateDecayStrategy": {
+    "diff": {
+      "value": -0.001
+    },
+    "initialLearningRate": {
+      "value": 0.01
+    },
+    "actualLearningRate": {
+      "value": 0.01
+    },
+    "decays": 0
+  },
+  "trainer": {},
+  "valueInitializer": {
+    "distribution": {
+      "rg": {
+        "seed": 113569974900772,
+        "nextNextGaussian": 0.0,
+        "haveNextNextGaussian": false
+      },
+      "scale": 2.0
+    }
+  },
+  "learningRate": {
+    "value": 0.01
+  },
+  "timing": {
+    "timeTaken": {
+      "seconds": 455,
+      "nanos": 708000000
+    },
+    "totalTimeTaken": "PT7M35.708S"
+  }
+}
+
+]
+

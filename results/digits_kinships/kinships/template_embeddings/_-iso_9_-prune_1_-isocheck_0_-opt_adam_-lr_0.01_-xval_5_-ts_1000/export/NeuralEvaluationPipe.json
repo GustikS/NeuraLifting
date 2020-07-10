@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6283735371387629,
+  "majorityErr": 0.5106281347026511,
+  "dispersion": {
+    "value": 0.25100784312324403
+  },
+  "goodCount": 2631,
+  "zeroCount": 2049,
+  "oneCount": 2138,
+  "bestThreshold": {
+    "value": 0.5523253125621944
+  },
+  "bestAccuracy": 0.690470503940769,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18801047663392592
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6820353559483995,
+  "majorityErr": 0.5105112279025322,
+  "dispersion": {
+    "value": 0.3714416259373813
+  },
+  "goodCount": 2855,
+  "zeroCount": 2049,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.42374707977561865
+  },
+  "bestAccuracy": 0.7570473005255614,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.1582589488702767
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6297181079789775,
+  "majorityErr": 0.5105112279025322,
+  "dispersion": {
+    "value": 0.24042129401001422
+  },
+  "goodCount": 2636,
+  "zeroCount": 2049,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.551082186834466
+  },
+  "bestAccuracy": 0.6717630195891066,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.19302156249308605
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.7247311827956989,
+  "majorityErr": 0.5106332138590203,
+  "dispersion": {
+    "value": 0.3265209311717643
+  },
+  "goodCount": 3033,
+  "zeroCount": 2048,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.580881468237396
+  },
+  "bestAccuracy": 0.7493428912783752,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.17124568672279195
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6341696535244923,
+  "majorityErr": 0.5106332138590203,
+  "dispersion": {
+    "value": 0.26814504777514026
+  },
+  "goodCount": 2654,
+  "zeroCount": 2048,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.4850022174414523
+  },
+  "bestAccuracy": 0.6972520908004779,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18592015680658963
+  }
+}
+
+]
+

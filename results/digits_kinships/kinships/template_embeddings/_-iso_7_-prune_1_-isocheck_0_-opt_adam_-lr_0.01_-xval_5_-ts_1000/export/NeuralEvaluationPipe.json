@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6219250059708622,
+  "majorityErr": 0.5106281347026511,
+  "dispersion": {
+    "value": 0.2500080930278798
+  },
+  "goodCount": 2604,
+  "zeroCount": 2049,
+  "oneCount": 2138,
+  "bestThreshold": {
+    "value": 0.6021527049025577
+  },
+  "bestAccuracy": 0.6966802006209697,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18830343936053026
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6796464405160058,
+  "majorityErr": 0.5105112279025322,
+  "dispersion": {
+    "value": 0.37146370553177543
+  },
+  "goodCount": 2845,
+  "zeroCount": 2049,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.4312428214126293
+  },
+  "bestAccuracy": 0.7563306258958433,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.15819337830016844
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6075011944577162,
+  "majorityErr": 0.5105112279025322,
+  "dispersion": {
+    "value": 0.23449007305265146
+  },
+  "goodCount": 2543,
+  "zeroCount": 2049,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.6196202474009833
+  },
+  "bestAccuracy": 0.6703296703296703,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.19436299194931195
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6150537634408603,
+  "majorityErr": 0.5106332138590203,
+  "dispersion": {
+    "value": 0.2589614685277592
+  },
+  "goodCount": 2574,
+  "zeroCount": 2048,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.516122730212724
+  },
+  "bestAccuracy": 0.6970131421744324,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18852551557549027
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6372759856630824,
+  "majorityErr": 0.5106332138590203,
+  "dispersion": {
+    "value": 0.26565909002917654
+  },
+  "goodCount": 2667,
+  "zeroCount": 2048,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.41664969327600826
+  },
+  "bestAccuracy": 0.6967741935483871,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.1863442952026301
+  }
+}
+
+]
+

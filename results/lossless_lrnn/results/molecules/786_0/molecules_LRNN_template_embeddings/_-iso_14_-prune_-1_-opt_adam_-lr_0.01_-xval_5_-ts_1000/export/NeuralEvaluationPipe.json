@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6396011396011396,
+  "majorityErr": 0.5227920227920227,
+  "dispersion": {
+    "value": 0.16048770449532546
+  },
+  "goodCount": 449,
+  "zeroCount": 335,
+  "oneCount": 367,
+  "bestThreshold": {
+    "value": 0.5238335946941892
+  },
+  "bestAccuracy": 0.6481481481481481,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21765629455574978
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6718972895863052,
+  "majorityErr": 0.5221112696148359,
+  "dispersion": {
+    "value": 0.16456349800801767
+  },
+  "goodCount": 471,
+  "zeroCount": 335,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5289124642727284
+  },
+  "bestAccuracy": 0.6733238231098431,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21836566932182463
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.651925820256776,
+  "majorityErr": 0.5221112696148359,
+  "dispersion": {
+    "value": 0.15209054050420684
+  },
+  "goodCount": 457,
+  "zeroCount": 335,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5216260751055068
+  },
+  "bestAccuracy": 0.6590584878744651,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2205666948873685
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6757142857142857,
+  "majorityErr": 0.5228571428571429,
+  "dispersion": {
+    "value": 0.1738138427874799
+  },
+  "goodCount": 473,
+  "zeroCount": 334,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.514252098004317
+  },
+  "bestAccuracy": 0.6685714285714286,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21119145968167835
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6628571428571428,
+  "majorityErr": 0.5228571428571429,
+  "dispersion": {
+    "value": 0.15722966241560848
+  },
+  "goodCount": 464,
+  "zeroCount": 334,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5102550150737489
+  },
+  "bestAccuracy": 0.66,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2171845526983969
+  }
+}
+
+]
+

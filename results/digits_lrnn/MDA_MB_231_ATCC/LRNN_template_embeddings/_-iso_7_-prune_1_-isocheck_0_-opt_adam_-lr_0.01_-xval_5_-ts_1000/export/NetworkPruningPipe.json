@@ -1,0 +1,75 @@
+[
+
+{
+  "allNeurons": 212160,
+  "prunedNeurons": 156438,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 199000000
+    },
+    "totalTimeTaken": "PT0.199S"
+  }
+}
+
+,
+
+{
+  "allNeurons": 215884,
+  "prunedNeurons": 159344,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 38000000
+    },
+    "totalTimeTaken": "PT0.038S"
+  }
+}
+
+,
+
+
+{
+  "allNeurons": 216248,
+  "prunedNeurons": 159488,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 38000000
+    },
+    "totalTimeTaken": "PT0.038S"
+  }
+}
+
+,
+
+
+{
+  "allNeurons": 215502,
+  "prunedNeurons": 158926,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 30000000
+    },
+    "totalTimeTaken": "PT0.03S"
+  }
+}
+
+,
+
+
+{
+  "allNeurons": 218026,
+  "prunedNeurons": 160802,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 34000000
+    },
+    "totalTimeTaken": "PT0.034S"
+  }
+}
+
+]
+

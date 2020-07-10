@@ -1,0 +1,53 @@
+{
+  "training": {
+    "restarts": [],
+    "bestResults": {
+      "training": {
+        "accuracy": 0.6778681506849316,
+        "majorityErr": 0.5225456621004566,
+        "dispersion": {
+          "value": 0.1776193007016691
+        },
+        "goodCount": 9501,
+        "zeroCount": 6692,
+        "oneCount": 7324,
+        "bestThreshold": {
+          "value": 0.5552691439891941
+        },
+        "bestAccuracy": 0.6810787671232876,
+        "evaluatedOnline": true,
+        "aggregationFcn": {},
+        "error": {
+          "value": 0.20785950388949734
+        }
+      },
+      "validation": {
+        "goodCount": 0,
+        "zeroCount": 0,
+        "oneCount": 0,
+        "evaluatedOnline": true,
+        "aggregationFcn": {}
+      }
+    }
+  },
+  "testing": {
+    "accuracy": 0.6552511415525114,
+    "majorityErr": 0.5225456621004566,
+    "dispersion": {
+      "value": 0.15662950145268428
+    },
+    "goodCount": 2296,
+    "zeroCount": 1673,
+    "oneCount": 1831,
+    "bestThreshold": {
+      "value": 0.4552745996242462
+    },
+    "bestAccuracy": 0.6521118721461188,
+    "evaluatedOnline": true,
+    "aggregationFcn": {},
+    "error": {
+      "value": 0.21778359962950408
+    }
+  }
+}
+

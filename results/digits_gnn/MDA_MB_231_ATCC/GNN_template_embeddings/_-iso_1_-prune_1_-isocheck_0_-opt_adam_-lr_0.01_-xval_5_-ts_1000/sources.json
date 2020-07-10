@@ -1,0 +1,31 @@
+{
+  "template": {
+    "path": "/home/souregus/neuralogic/templates/jair/template_unified_gnn2"
+  },
+  "trainExamples": {
+    "path": "/home/souregus/neuralogic/datasets/jair/MDA_MB_231_ATCC/examples"
+  },
+  "trainQueries": {
+    "path": "/home/souregus/neuralogic/datasets/jair/MDA_MB_231_ATCC/queries"
+  },
+  "train": {
+    "ExamplesSeparate": true,
+    "QueriesSeparate": true,
+    "ExamplesProvided": true,
+    "QueriesProvided": true,
+    "QueriesLinkedById": true
+  },
+  "test": {
+    "ExamplesSeparate": false,
+    "QueriesSeparate": false,
+    "ExamplesProvided": false,
+    "QueriesProvided": false,
+    "QueriesLinkedById": false
+  },
+  "templateProvided": true,
+  "foldFiles": false,
+  "crossvalidation": true,
+  "trainTest": false,
+  "trainOnly": false,
+  "testOnly": false
+}

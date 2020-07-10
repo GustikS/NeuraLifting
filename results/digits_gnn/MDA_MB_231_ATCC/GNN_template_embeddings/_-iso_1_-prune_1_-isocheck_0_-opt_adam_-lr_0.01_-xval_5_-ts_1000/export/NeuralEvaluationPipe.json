@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.5186440677966102,
+  "majorityErr": 0.5,
+  "dispersion": {
+    "value": 0.0020195037156025553
+  },
+  "goodCount": 306,
+  "zeroCount": 295,
+  "oneCount": 295,
+  "bestThreshold": {
+    "value": 0.5064474275237503
+  },
+  "bestAccuracy": 0.5152542372881356,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.25933115410059676
+  }
+}
+
+,
+
+{
+  "accuracy": 0.5101694915254237,
+  "majorityErr": 0.5,
+  "dispersion": {
+    "value": 0.011445280073431763
+  },
+  "goodCount": 301,
+  "zeroCount": 295,
+  "oneCount": 295,
+  "bestThreshold": {
+    "value": 0.4818217183255854
+  },
+  "bestAccuracy": 0.5203389830508475,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2558243178193514
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.565365025466893,
+  "majorityErr": 0.5008488964346349,
+  "dispersion": {
+    "value": 0.022785081035820387
+  },
+  "goodCount": 333,
+  "zeroCount": 294,
+  "oneCount": 295,
+  "bestThreshold": {
+    "value": 0.503126488650512
+  },
+  "bestAccuracy": 0.565365025466893,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.24721371962034253
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.5263157894736842,
+  "majorityErr": 0.5008488964346349,
+  "dispersion": {
+    "value": 0.01674705831875084
+  },
+  "goodCount": 310,
+  "zeroCount": 294,
+  "oneCount": 295,
+  "bestThreshold": {
+    "value": 0.49211828742951946
+  },
+  "bestAccuracy": 0.533106960950764,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.25465670771690463
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.5238095238095238,
+  "majorityErr": 0.5,
+  "dispersion": {
+    "value": 0.015178182278035024
+  },
+  "goodCount": 308,
+  "zeroCount": 294,
+  "oneCount": 294,
+  "bestThreshold": {
+    "value": 0.5039090249658753
+  },
+  "bestAccuracy": 0.5272108843537415,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.25590549093465115
+  }
+}
+
+]
+

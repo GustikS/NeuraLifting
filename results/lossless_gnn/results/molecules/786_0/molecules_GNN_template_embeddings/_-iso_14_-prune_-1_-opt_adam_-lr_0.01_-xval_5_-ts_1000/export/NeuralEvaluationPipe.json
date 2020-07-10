@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6638176638176638,
+  "majorityErr": 0.5227920227920227,
+  "dispersion": {
+    "value": 0.14195281715991076
+  },
+  "goodCount": 466,
+  "zeroCount": 335,
+  "oneCount": 367,
+  "bestThreshold": {
+    "value": 0.498924722904028
+  },
+  "bestAccuracy": 0.6638176638176638,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21705395091166435
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6619115549215406,
+  "majorityErr": 0.5221112696148359,
+  "dispersion": {
+    "value": 0.13439608128338765
+  },
+  "goodCount": 464,
+  "zeroCount": 335,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.500187383581176
+  },
+  "bestAccuracy": 0.6619115549215406,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21907284758607062
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6362339514978602,
+  "majorityErr": 0.5221112696148359,
+  "dispersion": {
+    "value": 0.13804260913854616
+  },
+  "goodCount": 446,
+  "zeroCount": 335,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5412699219458463
+  },
+  "bestAccuracy": 0.6462196861626248,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.22160949264587773
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6642857142857143,
+  "majorityErr": 0.5228571428571429,
+  "dispersion": {
+    "value": 0.13050526591441913
+  },
+  "goodCount": 465,
+  "zeroCount": 334,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.4310291067335136
+  },
+  "bestAccuracy": 0.65,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.22106707704777084
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6542857142857142,
+  "majorityErr": 0.5228571428571429,
+  "dispersion": {
+    "value": 0.15776457491712054
+  },
+  "goodCount": 458,
+  "zeroCount": 334,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.48824193332025834
+  },
+  "bestAccuracy": 0.6542857142857142,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2152712919387188
+  }
+}
+
+]
+

@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6852161452113685,
+  "majorityErr": 0.5106281347026511,
+  "dispersion": {
+    "value": 0.2927689235570547
+  },
+  "goodCount": 2869,
+  "zeroCount": 2049,
+  "oneCount": 2138,
+  "bestThreshold": {
+    "value": 0.5626455797700075
+  },
+  "bestAccuracy": 0.7341772151898734,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18149011481341662
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6600573339703775,
+  "majorityErr": 0.5105112279025322,
+  "dispersion": {
+    "value": 0.2673105593644291
+  },
+  "goodCount": 2763,
+  "zeroCount": 2049,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.4546602976661628
+  },
+  "bestAccuracy": 0.6982799808886765,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18332170662394334
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6870520783564262,
+  "majorityErr": 0.5105112279025322,
+  "dispersion": {
+    "value": 0.2963977084460309
+  },
+  "goodCount": 2876,
+  "zeroCount": 2049,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.624292454052342
+  },
+  "bestAccuracy": 0.7333970377448639,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.17837697236112202
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6814814814814815,
+  "majorityErr": 0.5106332138590203,
+  "dispersion": {
+    "value": 0.2805937490557809
+  },
+  "goodCount": 2852,
+  "zeroCount": 2048,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.39902366516209176
+  },
+  "bestAccuracy": 0.6927120669056153,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.1813140516434586
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.7500597371565113,
+  "majorityErr": 0.5106332138590203,
+  "dispersion": {
+    "value": 0.3126023833296684
+  },
+  "goodCount": 3139,
+  "zeroCount": 2048,
+  "oneCount": 2137,
+  "bestThreshold": {
+    "value": 0.5620137133071734
+  },
+  "bestAccuracy": 0.7703703703703704,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.17014866777837925
+  }
+}
+
+]
+

@@ -1,0 +1,46 @@
+[
+
+{
+  "accuracy": 0.6492637215528781,
+  "majorityErr": 0.5087014725568942,
+  "dispersion": {
+    "value": 0.136409569848503
+  },
+  "goodCount": 485,
+  "zeroCount": 367,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.49434691700262867
+  },
+  "bestAccuracy": 0.6519410977242303,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2195299934379199
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6492637215528781,
+  "majorityErr": 0.5087014725568942,
+  "dispersion": {
+    "value": 0.1502240628284796
+  },
+  "goodCount": 485,
+  "zeroCount": 367,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.5148200738463337
+  },
+  "bestAccuracy": 0.6572958500669344,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.22137183693388346
+  }
+}
+
+]
+

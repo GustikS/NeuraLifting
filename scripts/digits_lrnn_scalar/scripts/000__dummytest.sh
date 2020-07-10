@@ -1,0 +1,1 @@
+sbatch /home/XXXXX/neuralogic/experiments/digits_lrnn_scalar/scripts/100__molecules_MDA_MB_231_ATCC_molecules_scalar_template_embeddings__-iso_12_-prune_1_-xval_5_-isocheck_-1_-isoinits_1_-opt_adam_-lr_0.01_-ts_1000.sh

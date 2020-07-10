@@ -1,0 +1,31 @@
+{
+  "template": {
+    "path": "/home/XXXXX/neuralogic/templates/molecules/GNN_template_embeddings"
+  },
+  "trainExamples": {
+    "path": "/home/XXXXX/neuralogic/datasets/molecules/A549_ATCC/examples"
+  },
+  "trainQueries": {
+    "path": "/home/XXXXX/neuralogic/datasets/molecules/A549_ATCC/queries"
+  },
+  "train": {
+    "ExamplesSeparate": true,
+    "QueriesSeparate": true,
+    "ExamplesProvided": true,
+    "QueriesProvided": true,
+    "QueriesLinkedById": true
+  },
+  "test": {
+    "ExamplesSeparate": false,
+    "QueriesSeparate": false,
+    "ExamplesProvided": false,
+    "QueriesProvided": false,
+    "QueriesLinkedById": false
+  },
+  "templateProvided": true,
+  "foldFiles": false,
+  "crossvalidation": true,
+  "trainTest": false,
+  "trainOnly": false,
+  "testOnly": false
+}

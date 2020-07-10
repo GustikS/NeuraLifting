@@ -1,0 +1,12 @@
+{
+  "allNeurons": 1077820,
+  "prunedNeurons": 794998,
+  "timing": {
+    "timeTaken": {
+      "seconds": 0,
+      "nanos": 325000000
+    },
+    "totalTimeTaken": "PT0.325S"
+  }
+}
+

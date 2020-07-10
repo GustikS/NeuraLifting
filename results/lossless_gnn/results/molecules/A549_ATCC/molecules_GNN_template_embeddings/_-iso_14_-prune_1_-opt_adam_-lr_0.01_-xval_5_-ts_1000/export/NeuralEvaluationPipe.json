@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6613119143239625,
+  "majorityErr": 0.5087014725568942,
+  "dispersion": {
+    "value": 0.1433699492588979
+  },
+  "goodCount": 494,
+  "zeroCount": 367,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.4973136637997636
+  },
+  "bestAccuracy": 0.6626506024096386,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21759792545026854
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6760374832663989,
+  "majorityErr": 0.5087014725568942,
+  "dispersion": {
+    "value": 0.15742088620039862
+  },
+  "goodCount": 505,
+  "zeroCount": 367,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.5357615137914776
+  },
+  "bestAccuracy": 0.6613119143239625,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21611932834415862
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6447721179624665,
+  "majorityErr": 0.5093833780160858,
+  "dispersion": {
+    "value": 0.13510789070271828
+  },
+  "goodCount": 481,
+  "zeroCount": 366,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.4908036289439591
+  },
+  "bestAccuracy": 0.6407506702412868,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.22978598412673418
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6380697050938338,
+  "majorityErr": 0.5093833780160858,
+  "dispersion": {
+    "value": 0.13139776951936538
+  },
+  "goodCount": 476,
+  "zeroCount": 366,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.49659374168677156
+  },
+  "bestAccuracy": 0.6394101876675603,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.22645438130120668
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6809651474530831,
+  "majorityErr": 0.5093833780160858,
+  "dispersion": {
+    "value": 0.1452561757661603
+  },
+  "goodCount": 508,
+  "zeroCount": 366,
+  "oneCount": 380,
+  "bestThreshold": {
+    "value": 0.4793460939848555
+  },
+  "bestAccuracy": 0.6823056300268097,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.21371832359159842
+  }
+}
+
+]
+

@@ -1,0 +1,12 @@
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_umls_template_embeddings__-iso_-1_-prune_-1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_umls_template_embeddings__-iso_14_-prune_-1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_umls_template_embeddings__-iso_-1_-prune_1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_umls_template_embeddings__-iso_14_-prune_1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_nations_template_embeddings__-iso_-1_-prune_-1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_nations_template_embeddings__-iso_14_-prune_-1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_nations_template_embeddings__-iso_-1_-prune_1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_nations_template_embeddings__-iso_14_-prune_1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_kinships_template_embeddings__-iso_-1_-prune_-1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_kinships_template_embeddings__-iso_14_-prune_-1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_kinships_template_embeddings__-iso_-1_-prune_1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh
+sbatch /home/XXXXX/neuralogic/experiments/lossless_kbc/scripts/kbs_kinships_template_embeddings__-iso_14_-prune_1_-opt_adam_-lr_0.01_-xval_5_-ts_1000.sh

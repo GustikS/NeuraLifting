@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.6638176638176638,
+  "majorityErr": 0.5227920227920227,
+  "dispersion": {
+    "value": 0.16163613779467478
+  },
+  "goodCount": 466,
+  "zeroCount": 335,
+  "oneCount": 367,
+  "bestThreshold": {
+    "value": 0.5162682631797963
+  },
+  "bestAccuracy": 0.6581196581196581,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2149351015066162
+  }
+}
+
+,
+
+{
+  "accuracy": 0.6761768901569187,
+  "majorityErr": 0.5221112696148359,
+  "dispersion": {
+    "value": 0.14957525394151033
+  },
+  "goodCount": 474,
+  "zeroCount": 335,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5482943905647149
+  },
+  "bestAccuracy": 0.6804564907275321,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2123138783152988
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6490727532097005,
+  "majorityErr": 0.5221112696148359,
+  "dispersion": {
+    "value": 0.14267948317314044
+  },
+  "goodCount": 455,
+  "zeroCount": 335,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5217839210790483
+  },
+  "bestAccuracy": 0.6490727532097005,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2193466558544656
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6457142857142857,
+  "majorityErr": 0.5228571428571429,
+  "dispersion": {
+    "value": 0.14150102470016362
+  },
+  "goodCount": 452,
+  "zeroCount": 334,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.515997134123954
+  },
+  "bestAccuracy": 0.6342857142857142,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2220376664427311
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.6657142857142857,
+  "majorityErr": 0.5228571428571429,
+  "dispersion": {
+    "value": 0.15479872569776604
+  },
+  "goodCount": 466,
+  "zeroCount": 334,
+  "oneCount": 366,
+  "bestThreshold": {
+    "value": 0.5274292136715275
+  },
+  "bestAccuracy": 0.6528571428571428,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.2160014833622064
+  }
+}
+
+]
+

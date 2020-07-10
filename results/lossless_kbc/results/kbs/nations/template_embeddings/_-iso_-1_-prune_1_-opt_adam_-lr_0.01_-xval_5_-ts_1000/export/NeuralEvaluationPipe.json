@@ -1,0 +1,115 @@
+[
+
+{
+  "accuracy": 0.5523364485981308,
+  "majorityErr": 0.5205607476635514,
+  "dispersion": {
+    "value": 0.2664899259625796
+  },
+  "goodCount": 591,
+  "zeroCount": 557,
+  "oneCount": 513,
+  "bestThreshold": {
+    "value": 0.39860994636446684
+  },
+  "bestAccuracy": 0.7355140186915888,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.20885704547904035
+  }
+}
+
+,
+
+{
+  "accuracy": 0.7579439252336448,
+  "majorityErr": 0.5205607476635514,
+  "dispersion": {
+    "value": 0.4202210111570219
+  },
+  "goodCount": 811,
+  "zeroCount": 557,
+  "oneCount": 513,
+  "bestThreshold": {
+    "value": 0.5896032482850857
+  },
+  "bestAccuracy": 0.7514018691588785,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.16891524367562508
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.7521047708138447,
+  "majorityErr": 0.520112254443405,
+  "dispersion": {
+    "value": 0.38289311307672136
+  },
+  "goodCount": 804,
+  "zeroCount": 556,
+  "oneCount": 513,
+  "bestThreshold": {
+    "value": 0.5430893995780752
+  },
+  "bestAccuracy": 0.7502338634237605,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.1868078396907473
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.7586529466791394,
+  "majorityErr": 0.520112254443405,
+  "dispersion": {
+    "value": 0.4176600810622902
+  },
+  "goodCount": 811,
+  "zeroCount": 556,
+  "oneCount": 513,
+  "bestThreshold": {
+    "value": 0.5653360029580792
+  },
+  "bestAccuracy": 0.7530402245088869,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.17471690044614108
+  }
+}
+
+,
+
+
+{
+  "accuracy": 0.7492984097287184,
+  "majorityErr": 0.520112254443405,
+  "dispersion": {
+    "value": 0.39413522919068417
+  },
+  "goodCount": 801,
+  "zeroCount": 556,
+  "oneCount": 513,
+  "bestThreshold": {
+    "value": 0.5978642943090273
+  },
+  "bestAccuracy": 0.7418147801683816,
+  "evaluatedOnline": true,
+  "aggregationFcn": {},
+  "error": {
+    "value": 0.18517647168192405
+  }
+}
+
+]
+

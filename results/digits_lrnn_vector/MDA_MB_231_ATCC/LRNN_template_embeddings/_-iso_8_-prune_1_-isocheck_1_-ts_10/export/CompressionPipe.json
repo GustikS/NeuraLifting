@@ -1,0 +1,15 @@
+{
+  "repetitions": 1,
+  "decimals": 8,
+  "timing": {
+    "timeTaken": {
+      "seconds": 61,
+      "nanos": 766000000
+    },
+    "totalTimeTaken": "PT1M1.766S"
+  },
+  "allNeuronCount": 794998,
+  "compressedNeuronCount": 123053,
+  "preventedByIsoCheck": 1
+}
+
