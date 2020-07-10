@@ -8,17 +8,16 @@ _This repository contains materials to reproduce the results from the paper "**L
 |  plotting        |  contains python scripts for drawing graphs from the paper                                                                                                     |
 |  results         |  contains detailed statistics exported by the learning engine in JSON format for each experiment (prefilled with a rerun). Also includes the generated images. |
 |  scripts         |  contains bash scripts for running all the experiments, i.e. running the learning engine with varying inputs and parameters                                    |
-|  templates       |  contains all the used templates (models) for learning in the experiments                                                                                          |
-|  NeuraLogic.jar  | the learning engine itself
+|  templates       |  contains all the used templates (models) for learning in the experiments    
 
-- for you convenience, the whole learning engine is packed into a single "NeuraLogic.jar" file with no dependencies (but Java >= 1.8). See the [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository for sourcecode of the engine itself.
-- for the comparison against GNN engines (PyG and DGL) from Table 1 (and others), please see a separate [GNNs vs. LRNNs](https://github.com/GustikS/GNNwLRNNs) repository.
+- for you convenience, the whole learning engine is packed into a single [jar file release](https://github.com/GustikS/NeuraLifting/releases) with no dependencies (but Java >= 1.8). See the [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository for sourcecode of the engine itself (and recent releases).
+- for the comparison against GNN engines (PyG and DGL) from Table 1 (and other experiments), please see a separate [GNNs vs. LRNNs](https://github.com/GustikS/GNNwLRNNs) repository.
 
 #### Reproduction scripts
 
-Since there are many experiments to be performed for the final graphical output, we have prepared [batch run scripts](./scripts) for a convenient run in a cluster environment. If you have an access to some computer cluster with the commonly used [SLURM](https://slurm.schedmd.com/quickstart.html) workload manager, you can rerun everything in under 5 minutes of setup. 
+Since there are many experiments to be performed for the final graphical output, we have prepared [batch run scripts](./scripts) for a convenient run in a cluster environment. If you have access to some computer cluster with the commonly used [SLURM](https://slurm.schedmd.com/quickstart.html) workload manager, you can rerun everything in under 5 minutes of setup. 
 
-- If you cannot run on a cluster, or want to rerun only selected experiments, you can always run the particular shell scripts with particular parameter setups individually. 
+- If you cannot run on a cluster, or want to rerun only selected experiments, you can always run [particular shell scripts](./scripts/digits_gnn/scripts/molecules_MDA_MB_231_ATCC_molecules_GNN_template_embeddings__-iso_1_-prune_1_-xval_5_-isocheck_-1_-isoinits_1_-ts_10.sh) with particular parameter setups individually. 
     - Also, you can browse the detailed JSON results individually/manually. 
 - We also include a [runscript generator](./plotting/regenerate_run_scripts%20(optional).py) if you wish to test other parammeter setups conveniently.
 
